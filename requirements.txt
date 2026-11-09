@@ -1,0 +1,7 @@
+pymupdf
+pillow
+numpy
+
+
+rapidocr-onnxruntime
+pytest

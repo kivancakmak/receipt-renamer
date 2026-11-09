@@ -1,0 +1,9 @@
+.env
+samples/
+subset/
+output*/
+my_input/
+my_output/
+__pycache__/
+.pytest_cache/
+*.pyc
